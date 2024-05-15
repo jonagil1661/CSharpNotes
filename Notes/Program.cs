@@ -166,6 +166,30 @@ class Program { //Unlike Java, name of C# file doesn't have to match with class 
         you can use 'using System.Linq' to access other array methods
         numArray.Max(), numArray.Min(), numArray.Sum()
         */
+
+
+
+
+        MyFirstMethod(); // calls this method
+        MyFirstMethod("John", 35);
+        ReturningMethod();
+        KeyValueMethod(child2: "Jeff", child1: "Mark");
+    }
+
+    public static void MyFirstMethod() { // unlike Java, methods should start w/ uppercase
+        Console.WriteLine("IT WORKS");
+    }
+
+    public static void MyFirstMethod(string name, int age) { // method overloading
+        Console.WriteLine("Your name is: " + name + " and your age is: " + age);
+    }
+
+    public static int ReturningMethod() {
+        return 235;
+    }
+
+    public static void KeyValueMethod(string child1, string child2) {
+        Console.WriteLine("Child 1 is " + child1 + " and child 2 is " + child2);
     }
 }
 }
