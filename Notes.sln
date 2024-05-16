@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{74443CC3-4F11-4860-B8A6-FE86D333BA1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPNotes", "OOPNotes\OOPNotes.csproj", "{E9C4F067-AEB0-45A6-82A5-023B668EE750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPNotes2", "OOPNotes2\OOPNotes2.csproj", "{7C17E637-FE2B-446C-96C4-76233E2A098B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{74443CC3-4F11-4860-B8A6-FE86D333BA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74443CC3-4F11-4860-B8A6-FE86D333BA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74443CC3-4F11-4860-B8A6-FE86D333BA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C4F067-AEB0-45A6-82A5-023B668EE750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C4F067-AEB0-45A6-82A5-023B668EE750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C4F067-AEB0-45A6-82A5-023B668EE750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C4F067-AEB0-45A6-82A5-023B668EE750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C17E637-FE2B-446C-96C4-76233E2A098B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C17E637-FE2B-446C-96C4-76233E2A098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C17E637-FE2B-446C-96C4-76233E2A098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C17E637-FE2B-446C-96C4-76233E2A098B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/main/CS/Notes/CSharp/OOPNotes2/bin/Debug/net7.0/OOPNotes2
+/Users/main/CS/Notes/CSharp/OOPNotes2/bin/Debug/net7.0/OOPNotes2.deps.json
+/Users/main/CS/Notes/CSharp/OOPNotes2/bin/Debug/net7.0/OOPNotes2.runtimeconfig.json
+/Users/main/CS/Notes/CSharp/OOPNotes2/bin/Debug/net7.0/OOPNotes2.dll
+/Users/main/CS/Notes/CSharp/OOPNotes2/bin/Debug/net7.0/OOPNotes2.pdb
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.csproj.AssemblyReference.cache
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.AssemblyInfoInputs.cache
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.AssemblyInfo.cs
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.csproj.CoreCompileInputs.cache
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.dll
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/refint/OOPNotes2.dll
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.pdb
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/OOPNotes2.genruntimeconfig.cache
+/Users/main/CS/Notes/CSharp/OOPNotes2/obj/Debug/net7.0/ref/OOPNotes2.dll
